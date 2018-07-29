@@ -116,9 +116,3 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-Буде вилучено .gitignore
-Буде вилучено db.sqlite3
-Буде вилучено manage.py
-Буде вилучено spilno_shop_api/
-Буде вилучено templates/
-Буде вилучено users/
